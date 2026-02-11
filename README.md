@@ -10,7 +10,7 @@ A collection of apps built using three different development methodologies—eac
 |-----|----------|-------|
 | **Habit Tracker** | Anti-Gravity (conversational) | Next.js, shadcn/ui |
 | **Financial Advisor** | Spec-driven development (Cursor rules) | FastAPI + React, yfinance, OpenRouter |
-| **Kanban Board** | GST (Get Shit Done) framework | Vite, React, Tailwind |
+| **Kanban Board** | GSD (Get Shit Done) framework | Vite, React, Tailwind |
 
 ---
 
@@ -103,4 +103,4 @@ Open [http://localhost:5173](http://localhost:5173) (Vite default). A drag-and-d
 
 - **Anti-Gravity**: Chat-first, iterative. Good for quick prototypes and straightforward apps.
 - **Spec-driven (Cursor rules)**: PRD → tasks → implementation. Good for features with clear scope and handoff.
-- **GST**: Research, plan, execute, verify. Good for larger or research-heavy projects.
+- **GSD**: Research, plan, execute, verify. Good for larger or research-heavy projects.
