@@ -1,4 +1,4 @@
-# Engineering Acceleration
+# Demo - Different ways of AI Assisted Coding
 
 A collection of apps built using three different development methodologies—each chosen to fit the project’s complexity and requirements.
 
